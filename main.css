@@ -48,7 +48,7 @@ h1 {
     color:rgb(27, 236, 139);
     font-size: 40px;
     background-image: url(fkmt.jpeg);
-    font-family: "poor richard";
+    font-family: "poor richard", Arial, Helvetica, sans-serif;
 }
 
 .home_title {
