@@ -40,7 +40,7 @@ a {
 color: #f05e45;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
     text-align: center;
     text-shadow: 1px 1px var(--emph);
     font-weight: normal;
